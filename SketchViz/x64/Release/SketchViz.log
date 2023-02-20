@@ -1,0 +1,100 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Core.cpp
+src\Core.cpp(150): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(157): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(158): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(159): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(199): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(209): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(294): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\Core.cpp(327): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+src\Core.cpp(333): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\Core.cpp(474): warning C4101: 'axis': unreferenced local variable
+src\Core.cpp(505): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(493): warning C4101: 'axis': unreferenced local variable
+src\Core.cpp(542): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(548): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+src\Core.cpp(601): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+src\Core.cpp(626): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+src\Core.cpp(813): warning C4101: 'b': unreferenced local variable
+src\Core.cpp(815): warning C4101: 'elem_id': unreferenced local variable
+src\Core.cpp(856): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(875): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(1248): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(1250): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(1251): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(1413): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(1421): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(1423): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(1423): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Core.cpp(1854): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Curve.cpp
+C:\Ronak_Research\Codes\C++\GI\SketchViz\SketchViz\include\Curve.h(9): warning C4005: 'PI': macro redefinition
+  c:\ronak_research\codes\c++\gi\sketchviz\sketchviz\include\Core.h(24): note: see previous definition of 'PI'
+src\Curve.cpp(22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(127): warning C4305: '=': truncation from 'double' to 'float'
+src\Curve.cpp(292): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(293): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(343): warning C4101: 'p': unreferenced local variable
+src\Curve.cpp(343): warning C4101: 'x': unreferenced local variable
+src\Curve.cpp(408): warning C4101: 'v': unreferenced local variable
+src\Curve.cpp(449): warning C4101: 'v': unreferenced local variable
+src\Curve.cpp(583): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(602): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(622): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(572): warning C4101: 'B': unreferenced local variable
+src\Curve.cpp(569): warning C4101: 'a': unreferenced local variable
+src\Curve.cpp(570): warning C4101: 'alpha': unreferenced local variable
+src\Curve.cpp(571): warning C4101: 'v': unreferenced local variable
+src\Curve.cpp(571): warning C4101: 'v2': unreferenced local variable
+src\Curve.cpp(569): warning C4101: 'b': unreferenced local variable
+src\Curve.cpp(570): warning C4101: 'beta': unreferenced local variable
+src\Curve.cpp(569): warning C4101: 'c': unreferenced local variable
+src\Curve.cpp(572): warning C4101: 'A': unreferenced local variable
+src\Curve.cpp(571): warning C4101: 'v1': unreferenced local variable
+src\Curve.cpp(570): warning C4101: 'gamma': unreferenced local variable
+src\Curve.cpp(572): warning C4101: 'C': unreferenced local variable
+src\Curve.cpp(676): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+src\Curve.cpp(877): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(878): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(879): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(884): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(885): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(886): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(891): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(892): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(893): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(902): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(903): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(913): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(914): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(924): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(925): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(937): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(938): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\Curve.cpp(939): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Renderer.cpp
+C:\Ronak_Research\Codes\C++\GI\SketchViz\SketchViz\include\Renderer.h(71): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Ronak_Research\Codes\C++\GI\SketchViz\SketchViz\include\Renderer.h(72): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+src\Renderer.cpp(283): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  Shader.cpp
+src\Shader.cpp(19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SketchViz.cpp
+C:\Ronak_Research\Codes\C++\GI\SketchViz\SketchViz\include\Renderer.h(71): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Ronak_Research\Codes\C++\GI\SketchViz\SketchViz\include\Renderer.h(72): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Ronak_Research\Codes\C++\GI\SketchViz\SketchViz\include\Curve.h(9): warning C4005: 'PI': macro redefinition
+  C:\Ronak_Research\Codes\C++\GI\SketchViz\SketchViz\include\Core.h(24): note: see previous definition of 'PI'
+src\SketchViz.cpp(80): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  347 of 356 functions (97.5%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SketchViz.vcxproj -> C:\Ronak_Research\Codes\C++\GI\SketchViz\SketchViz\x64_Release\SketchViz.exe
